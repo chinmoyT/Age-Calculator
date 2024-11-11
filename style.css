@@ -1,0 +1,17 @@
+.container{
+    border: 1px solid black;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 2vh;
+    border-radius: 0.5em 0.5em 2em 0.5em;
+}
+.inside-container1{
+    display: flex;
+    justify-content: space-between;
+}
+
+.inside-container2{
+    display: flex;
+}
